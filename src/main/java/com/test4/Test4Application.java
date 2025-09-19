@@ -10,6 +10,7 @@ public class Test4Application {
 		SpringApplication.run(Test4Application.class, args);
 		System.out.println("Line added");
 		int a =10;
+		int b = 20;
 	}
 
 }
