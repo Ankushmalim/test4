@@ -9,6 +9,7 @@ public class Test4Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
 		System.out.println("Line added");
+		int a =10;
 	}
 
 }
