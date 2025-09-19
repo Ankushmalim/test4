@@ -13,6 +13,7 @@ public class Test4Application {
 		int b = 20;
 		System.out.println(a);
 		System.out.println(b);
+		String name = "Ankush";
 	}
 
 }
