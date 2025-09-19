@@ -11,6 +11,7 @@ public class Test4Application {
 		System.out.println("Line added");
 		int a =10;
 		int b = 20;
+		System.out.println(a);
 	}
 
 }
